@@ -10,7 +10,7 @@ Built entirely in Python using **OpenCV** and **cvzone**.
 ## 🎥 Gameplay Demo
 
 > **Gameplay Video:**
-> 
+> The video has audio , please unmute
 > <video src="https://github.com/user-attachments/assets/6e497b91-09c7-4de8-b5cf-b281c8a4efc0" controls="controls"></video>
 
 ---
