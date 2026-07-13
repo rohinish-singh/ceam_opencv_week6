@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/6e497b91-09c7-4de8-b5cf-b281c8a4efc0
+
 # 🐍 OpenCV Hand Tracking Snake Game
 
 An interactive, real-time computer vision twist on the classic arcade Snake game. Instead of using a keyboard or controller, players use their webcam and hand gestures to control the snake, with the tip of their index finger acting as the snake's head! 
@@ -8,9 +12,7 @@ Built entirely in Python using **OpenCV** and **cvzone**.
 
 > **Gameplay Video:**
 > 
-> *[Replace this text with a link to your video, or use the syntax below to embed a local video/GIF]*
-> 
-> `![Snake Game Demo](path/to/your/video_or_gif.gif)`
+> <video src="https://github.com/user-attachments/assets/6e497b91-09c7-4de8-b5cf-b281c8a4efc0" controls="controls"></video>
 
 ---
 
