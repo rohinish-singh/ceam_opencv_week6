@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/6e497b91-09c7-4de8-b5cf-b281c8a4efc0
 
 # 🐍 OpenCV Hand Tracking Snake Game
 
